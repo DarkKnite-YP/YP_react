@@ -38,7 +38,7 @@ const experiences = [
     company_name: "GTU",
     date: "2021 - 2025",
     details: [
-      "Currently pursuing Sem-7 with <span style='color: white;'>CGPA: 7.83</span>.<br>Degree: Bachelor of Engineering (B.E) Specialization: Artificial Intelligence(A.I) University: Gujarat Technological University (GTU)<br>Duration: Typically 4 years<br>Type: Undergraduate degree",
+      "Passout with <span style='color: white;'>CGPA: 8.23</span>.<br>Degree: Bachelor of Engineering (B.E) Specialization: Artificial Intelligence(A.I) University: Gujarat Technological University (GTU)<br>Duration: 4 years<br>Type: Undergraduate degree",
     ],
   },
   {
@@ -73,9 +73,9 @@ const portfolio = [
     image: devnotes,
   },
   {
-    name: "Intern in UI/UX at ErrorX",
+    name: "Intern as AI/ML developer at ErrorX",
     description:
-      "An upskilling internship in domain of UI/UX. Master the art of wireframing and page design. Along with enhancing the user experience.",
+      "Proven ability to deliver solutions through a 6-month internship at Errorx IT Solution. Strong analytical and problem-solving skills.",
     image: algorithms,
   },
 ];
