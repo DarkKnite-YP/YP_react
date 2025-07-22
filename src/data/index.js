@@ -67,9 +67,9 @@ const portfolio = [
     image: oscs,
   },
   {
-    name: "Git Repository",
+    name: "GATE 2025 Qulified",
     description:
-      "Created and deployed many projects out of which is In_Her_Words. This is specially made for social comments analysis. Using RE & ML it determine wheater it's hostile or not.",
+      "GATE (Graduate Aptitude Test in Engineering) 2025 qulified in DA (Data science & Artificial inteligence) with AIR 7217.",
     image: devnotes,
   },
   {
