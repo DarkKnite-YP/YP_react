@@ -61,15 +61,15 @@ const experiences = [
 
 const portfolio = [
   {
-    name: "Intern in A.I by IBM ",
+    name: "Real-time object recognition",
     description:
-      "Fundamentals of A.I along with core concepts like NLP, LLM, computer vision and Neural network. Successfully completed by implementing a chatbot for a trip advisor.",
+      "Dynamic AI Developer with hands-on experience in building digital object recognition tools using OpenCV and Python. Along with Hand written digit recognition(HDR).",
     image: oscs,
   },
   {
-    name: "GATE 2025 Qulified",
+    name: "GATE 2025 Qualified",
     description:
-      "GATE (Graduate Aptitude Test in Engineering) 2025 qulified in DA (Data science & Artificial inteligence) with AIR 7217.",
+      "GATE (Graduate Aptitude Test in Engineering) 2025 qualified in DA (Data science & Artificial inteligence) with AIR 7217.",
     image: devnotes,
   },
   {
